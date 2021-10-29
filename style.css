@@ -1,0 +1,19 @@
+body {
+    background-color:rgb(165, 165, 221);
+    font-family:monospace;
+    color: rgb(61, 82, 60);
+    font-style:italic;
+}
+h1{
+    color: cornsilk;
+    font-style: initial;
+    font-size: 50px;
+}
+h2{
+    color: cornsilk;
+    font-style: initial;
+
+}
+b{
+    color:rgb(142, 223, 137)
+}
